@@ -1,0 +1,8 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background: url("../images/background.jpg");
+}
+.container {
+  background: rgba(0, 0, 0, 0.5);
+}
